@@ -12,6 +12,11 @@
 		870395011C7D61A600EB7002 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 870394FF1C7D61A600EB7002 /* Main.storyboard */; };
 		870395031C7D61A600EB7002 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 870395021C7D61A600EB7002 /* Assets.xcassets */; };
 		870395061C7D61A600EB7002 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 870395041C7D61A600EB7002 /* LaunchScreen.storyboard */; };
+		870395101C7D690F00EB7002 /* question-mark-xxl.png in Resources */ = {isa = PBXBuildFile; fileRef = 8703950F1C7D690F00EB7002 /* question-mark-xxl.png */; };
+		870395121C7D695600EB7002 /* wrong.png in Resources */ = {isa = PBXBuildFile; fileRef = 870395111C7D695600EB7002 /* wrong.png */; };
+		870395141C7D6DDE00EB7002 /* really.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 870395131C7D6DDE00EB7002 /* really.jpg */; };
+		870395161C7D73A800EB7002 /* Salute_Finger.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 870395151C7D73A800EB7002 /* Salute_Finger.jpg */; };
+		870395181C7D74B300EB7002 /* middle-finger-jonny-doomsda.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 870395171C7D74B300EB7002 /* middle-finger-jonny-doomsda.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +27,11 @@
 		870395021C7D61A600EB7002 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		870395051C7D61A600EB7002 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		870395071C7D61A600EB7002 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8703950F1C7D690F00EB7002 /* question-mark-xxl.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "question-mark-xxl.png"; sourceTree = "<group>"; };
+		870395111C7D695600EB7002 /* wrong.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = wrong.png; sourceTree = "<group>"; };
+		870395131C7D6DDE00EB7002 /* really.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = really.jpg; sourceTree = "<group>"; };
+		870395151C7D73A800EB7002 /* Salute_Finger.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Salute_Finger.jpg; sourceTree = "<group>"; };
+		870395171C7D74B300EB7002 /* middle-finger-jonny-doomsda.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "middle-finger-jonny-doomsda.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +66,11 @@
 			children = (
 				870394FB1C7D61A600EB7002 /* AppDelegate.swift */,
 				870394FD1C7D61A600EB7002 /* ViewController.swift */,
+				8703950F1C7D690F00EB7002 /* question-mark-xxl.png */,
+				870395171C7D74B300EB7002 /* middle-finger-jonny-doomsda.jpg */,
+				870395111C7D695600EB7002 /* wrong.png */,
+				870395131C7D6DDE00EB7002 /* really.jpg */,
+				870395151C7D73A800EB7002 /* Salute_Finger.jpg */,
 				870394FF1C7D61A600EB7002 /* Main.storyboard */,
 				870395021C7D61A600EB7002 /* Assets.xcassets */,
 				870395041C7D61A600EB7002 /* LaunchScreen.storyboard */,
@@ -123,9 +138,14 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				870395141C7D6DDE00EB7002 /* really.jpg in Resources */,
+				870395121C7D695600EB7002 /* wrong.png in Resources */,
 				870395061C7D61A600EB7002 /* LaunchScreen.storyboard in Resources */,
 				870395031C7D61A600EB7002 /* Assets.xcassets in Resources */,
+				870395181C7D74B300EB7002 /* middle-finger-jonny-doomsda.jpg in Resources */,
 				870395011C7D61A600EB7002 /* Main.storyboard in Resources */,
+				870395161C7D73A800EB7002 /* Salute_Finger.jpg in Resources */,
+				870395101C7D690F00EB7002 /* question-mark-xxl.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -285,6 +305,7 @@
 				8703950C1C7D61A600EB7002 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
