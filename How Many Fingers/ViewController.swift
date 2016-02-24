@@ -38,7 +38,7 @@ class ViewController: UIViewController {
         else {
             imgResult.image = UIImage(named: "wrong.png")
             print("Wrong answer")
-            lblResponse.text = "Nope, try again!"
+            lblResponse.text = "No you fool, the answer was \(iRandom). Try again!"
             }
         
         txtGuess.text = ""
